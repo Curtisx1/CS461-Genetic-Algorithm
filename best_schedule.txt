@@ -1,0 +1,12 @@
+Best Schedule Fitness: 8.799999999999999
+SLA100A: Room: Beach 301, Time: 12 PM, Facilitator: Banks
+SLA100B: Room: Beach 201, Time: 11 AM, Facilitator: Glen
+SLA191A: Room: Loft 206, Time: 2 PM, Facilitator: Zeldin
+SLA191B: Room: Loft 310, Time: 3 PM, Facilitator: Banks
+SLA201: Room: Loft 310, Time: 12 PM, Facilitator: Shaw
+SLA291: Room: Frank 119, Time: 3 PM, Facilitator: Lock
+SLA303: Room: Loft 206, Time: 10 AM, Facilitator: Glen
+SLA304: Room: Frank 119, Time: 10 AM, Facilitator: Glen
+SLA394: Room: Roman 216, Time: 10 AM, Facilitator: Singer
+SLA449: Room: Loft 310, Time: 2 PM, Facilitator: Shaw
+SLA451: Room: Loft 310, Time: 11 AM, Facilitator: Singer
